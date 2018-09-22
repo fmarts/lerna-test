@@ -1,0 +1,17 @@
+{
+  "name": "lerna-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmmrtns/lerna-test.git"
+  },
+  "author": "Fernando Martins<me@fernandomartins.net>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^3.4.0"
+  }
+}
